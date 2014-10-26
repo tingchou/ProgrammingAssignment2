@@ -1,13 +1,11 @@
 
-## The main pupose of following pair funcitons are used to cache the inverse of the matrix
-
-
-
 ##Brian Chou's comment: This makeCacheMatrix function create a special matrix object can cache its inverse. makeCacheMatrix a list containing a funciton to
 ##  1. set the value of the matrix
 ##  2. get the value of the matrix
 ##  3. set the value of the inverse matrix
 ##  4. get the vaule of the inverse matrix
+
+## The main pupose of following pair funcitons are used to cache the inverse of the matrix
 
 
 ## Assign the matrix as arguement in funciton
